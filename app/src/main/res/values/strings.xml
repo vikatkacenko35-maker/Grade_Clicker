@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Grade_Clicker</string>
+    <string name="points_earned">Набрано баллов</string>
+    <string name="total_clicks">Всего кликов</string>
+    <string name="current_grade">Текущая оценка</string>
+
+    <string name="grade_fail">Неудовлетворительно</string>
+    <string name="grade_pass">удовлетворительно</string>
+    <string name="grade_good">Хорошо</string>
+    <string name="grade_exellent">Отлично</string>
+
+    <string name="message_fall">Продолжайте работать!</string>
+    <string name="message_pass">Вы получили зачет!</string>
+    <string name="message_good">Отлчная работа!</string>
+    <string name="message_exellent">Вы успешно сдали курс!</string>
+
+    <string name="share">Поделиться</string>
+    <string name="share_text">Я набрал %1$d баллов по курсу\"Разработка мобильных приложений\"
+    #GradeClicker</string>
+    <string name="sharing_not_available">Функция недоступна</string>
+
 </resources>
